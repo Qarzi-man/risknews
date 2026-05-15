@@ -130,7 +130,7 @@ BOT1_KEYWORDS = [
     "курс доллара", "курс евро", "курс рубля", "курс юаня",
     # 🇬🇧 ENGLISH
     "sanctions", "default", "bankruptcy", "financial crisis",
-    "inflation", "devaluation", "interest rate", "central bank",
+    "Tajikistan inflation", "devaluation", "interest rate", "central bank", "target inflation in Tajikistan",
     "license revocation", "asset freeze", "capital adequacy",
     "stress test", "non-performing loan",
     "oil prices fall", "oil prices rise", "oil prices drop",
