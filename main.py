@@ -48,10 +48,12 @@ CHECK_INTERVAL_SECONDS = 300  # каждые 5 минут
 # ─── RSSHub инстансы (запасные если основной заблокирован) ───────────────────
 
 RSSHUB_INSTANCES = [
-    "https://rsshub.app",
-    "https://rss.shab.fun",
     "https://rsshub.rssforever.com",
+    "https://rss.shab.fun",
     "https://hub.slarker.me",
+    "https://rsshub.app",
+    "https://rsshub.woodencross.cn",
+    "https://rsshub.atgao.me",
 ]
 
 # ─── Telegram каналы ──────────────────────────────────────────────────────────
